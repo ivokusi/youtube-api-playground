@@ -2,7 +2,11 @@
 i
 ## Overview
 
-[project overview]
+This project aims to teach the basics of the Youtube Data API.
+
+## Prerequisites
+
+To interact with the Youtube Data API you have to enable and create credentials for the Youtube Data API at https://console.cloud.google.com/apis/. 
 
 ## Running the Script
 
