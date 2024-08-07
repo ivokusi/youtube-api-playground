@@ -1,5 +1,5 @@
 # youtube-api-playground
-i
+
 ## Overview
 
 This project aims to teach the basics of the Youtube Data API.
